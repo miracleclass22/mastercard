@@ -1,5 +1,3 @@
 customer
-product
-code 
-echo "The client is always right"
-
+2347890=5e67890-=
+  2347890=437890=-4457890=
